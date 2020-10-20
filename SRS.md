@@ -66,11 +66,11 @@ The document should be used for internal purposes only.
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
-| Term | | | -------- | ----------------------------------- | | **SRS** | Software Requirements Specification | | **JSON** | JavaScript Object Notation | | **API** | Application Programming Interface | | **MTBF** | Mean Time Between Failures | | **MTTR** | Mean Time To Repair | | **DTO** | Data Transfer Object | | **HTTP** | Hypertext Transfer Protocol | | **FAQ** | Frequently Asked Questions | | **REST** | Representational State Transfer |
+| Term | | | -------- | ----------------------------------- | | **SRS** | Software Requirements Specification |  | **UCD** | Use Case Diagram | | **tbd** | to be determined|
 
 ### 1.4 References
 
-| Title | Date | | ----------------------------------------------------------------------------------------------------- | ---------- | | [Blog](https://flashcardcommunity.wordpress.com/) | 17/10/2018 | | [GitHub](https://github.com/phoenixfeder/fc-com/) | 17/10/2018 | | [Spring Boot](https://spring.io/projects/spring-boot) | 19/10/2018 | | [ReactJS](https://reactjs.org/) | 19/10/2018 | | [Use Case Diagram](https://github.com/phoenixfeder/fc-com/blob/master/FlashCardCommunityUseCases.png) | 21/10/2018 |
+| Title | Date | | ----------------------------------------------------------------------------------------------------- | ---------- | | [Blog](https://spybotreloaded.wordpress.com/) | 07/10/2020 | | [GitHub](https://github.com/steiditi/Spybot-Reloaded/) | 07/10/2020 | | 
 
 ### 1.5 Overview
 
