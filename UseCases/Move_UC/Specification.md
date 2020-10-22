@@ -19,7 +19,7 @@ Both the player and the AI can move different Pawns. Each pawn has different sta
 
 ### 2.1.2 Mock-up
 
-![Move to field](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/abe2fb3920f45b1cec6cac4b9fe8bad40bf21528/UseCases/Move_UC/MockUp.svg)
+![Move to field](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/ea2c076d2de492685c5f3a35bb01129eb23bcf99/UseCases/Move_UC/MockUpMove.svg)
 
 ### 2.1.3 Narrative
 
