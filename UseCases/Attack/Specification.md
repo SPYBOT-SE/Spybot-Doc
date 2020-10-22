@@ -47,7 +47,7 @@ Most of the pawns can attack other pawns and can reduce their HP, modify their b
 
 ## 4.1 Pawn can still attack this turn
 
-The user hasn't attacked with the same pawn in his turn.
+The user hasn't attacked with the same pawn in this turn.
 
 # 5 Postconditions
 
