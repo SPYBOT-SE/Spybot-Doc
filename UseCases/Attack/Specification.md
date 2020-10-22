@@ -19,7 +19,7 @@ Most of the pawns can attack other pawns and can reduce their HP, modify their b
 
 ### 2.1.2 Mock-up
 
-![Attack](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/aee3231d385e4de7a009efe2e4497b0615e82e92/UseCases/Attack/MockUp.svg)
+![Attack an enemy](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/9ef0b9f70bd476a23dcb5b3c8a71f3d701616f9f/UseCases/Attack/MockUpAttack.svg)
 
 ### 2.1.3 Narrative
 
