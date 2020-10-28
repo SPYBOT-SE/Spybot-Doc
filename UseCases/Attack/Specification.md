@@ -34,9 +34,9 @@ Most of the pawns can attack other pawns and can reduce their HP, modify their b
 * User chooses a field out of range
 * User can choose another field
 
-### 2.2.2 Field is not occupied by another pawn
+### 2.2.2 Field is not occupied by an enemy pawn
 
-* User chooses an empty field
+* User chooses an empty field or a field with an ally pawn
 * User can choose another field
 
 # 3 Special Requirements
