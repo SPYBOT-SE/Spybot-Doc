@@ -23,9 +23,8 @@ Both the player and the AI can move different Pawns. Each pawn has different sta
 
 ### 2.1.3 Narrative
 
-![Feature File](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/UseCases/Move_UC/Move.feature)
+(https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/UseCases/Move_UC/Move.feature)
 ```
-gherkin
 Feature: Attack
   As a PLAYER
   I want to attack an enemy pawn with on of my pawns
