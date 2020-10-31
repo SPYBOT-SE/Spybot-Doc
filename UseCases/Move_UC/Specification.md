@@ -23,9 +23,7 @@ Both the player and the AI can move different Pawns. Each pawn has different sta
 
 ### 2.1.3 Narrative
 
-```
-(n/a)
-```
+![Feature File](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/UseCases/Move_UC/Move.feature)
 
 ## 2.2 Alternative Flows
 
