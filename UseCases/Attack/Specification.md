@@ -23,7 +23,7 @@ Most of the pawns can attack other pawns and can reduce their HP, modify their b
 
 ### 2.1.3 Narrative
 
-[Feature File](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/UseCases/Attack/Attack.feature)
+[Feature File](https://github.com/janick3110/Spybot/blob/master/app/Feature%20Files/Attack.feature)
 ```
 Feature: Attack
   As a PLAYER
