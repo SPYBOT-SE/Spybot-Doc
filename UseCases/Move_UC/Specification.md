@@ -24,7 +24,7 @@ Both the player and the AI can move different Pawns. Each pawn has different sta
 ### 2.1.3 Narrative
 
 [Feature File](https://github.com/janick3110/Spybot/blob/master/app/Feature%20Files/Move.feature)
-```
+```gherkin`
 Feature: Move Pawn
   As a PLAYER
   I want to move with one Pawn from one field to another
