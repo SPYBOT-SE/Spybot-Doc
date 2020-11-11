@@ -31,10 +31,10 @@ Table of Contents
 
 3       Architectural Goals and Constraints   
 
-4       Use-Case View 
+4       Use-Case View         
 -4.1     Use-Case Realizations     
- 
-5       Logical View 
+
+5      Logical View         
 -5.1     Overview     
 -5.2     Architecturally Significant Design Packages     
 
