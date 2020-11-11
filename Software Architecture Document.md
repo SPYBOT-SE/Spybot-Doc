@@ -37,9 +37,10 @@ Table of Contents
 5       Logical View
 -5.1     Overview     
 -5.2     Architecturally Significant Design Packages     
--6       Process View
 
--7       Deployment View
+6       Process View
+
+7       Deployment View
 
 8       Implementation View
 -8.1     Overview     
