@@ -10,21 +10,9 @@ Version <1.0>
 
 Revision History
 
-Date
-
-Version
-
-Description
-
-Author
-
-<dd/mmm/yy>
-
-<x.x>
-
-<details>
-
-<name>
+|Date|Version|Description|Author|
+|---|---|---|---|
+|<11/11/2020>|<1.0>|Created|Schmider|
 
  	 	 	 
  	 	 	 
