@@ -42,7 +42,7 @@ Table of Contents
 
 7       Deployment View
 
-8       Implementation View
+8      Implemenatation View         
 -8.1     Overview     
 -8.2     Layers     
 
