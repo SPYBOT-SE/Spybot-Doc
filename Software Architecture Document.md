@@ -114,6 +114,7 @@ For each significant class in the package, include its name, brief description, 
 
 9.                  Data View (optional)
 [A description of the persistent data storage perspective of the system. This section is optional if there is little or no persistent data, or the translation between the Design Model and the Data Model is trivial.]
+![Class Diagram](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Class%20Diagram.jpg?raw=true)
 
 10.             Size and Performance
 [A description of the major dimensioning characteristics of the software that impact the architecture, as well as the target performance constraints.]
