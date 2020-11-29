@@ -60,22 +60,29 @@ Software Architecture Document
 1.1               Purpose
 This document provides a comprehensive architectural overview of the system, using a number of different architectural views to depict different aspects of the system.  It is intended to capture and convey the significant architectural decisions which have been made on the system.
 
-[This section defines the purpose of the Software Architecture Document, in the overall project documentation, and briefly describes the structure of the document. The specific audiences for the document should be identified, with an indication of how they are expected to use the document.]
-
 1.2               Scope
-[A brief description of what the Software Architecture Document applies to; what is affected or influenced by this document.]
+This document describes the technical architecture of the Spybot project, including the structure of classes, modules and dependencies.
 
 1.3               Definitions, Acronyms and Abbreviations
-[This subsection should provide the definitions of all terms, acronyms, and abbreviations required to properly interpret the Software Architecture Document.  This information may be provided by reference to the project Glossary.]
+Abbrevation	Description
+API	Application programming interface
+MVC	Model View Controller
+REST	Representational state transfer
+SDK	Software development kit
+SRS	Software Requirements Specification
+UC	Use Case
+VCS	Version Control System
+n/a	not applicable
 
 1.4               References
 [This subsection should provide a complete list of all documents referenced elsewhere in the Software Architecture Document.  Each document should be identified by title, report number (if applicable), date, and publishing organization.  Specify the sources from which the references can be obtained. This information may be provided by reference to an appendix or to another document.]
 
 1.5               Overview
-[This subsection should describe what the rest of the Software Architecture Document contains and explain how the Software Architecture Document is organized.]
+This document contains the Architectural Representation, Goals and Constraints as well as the Logical, Deployment, Implementation and Data Views.
 
 2.                  Architectural Representation
-[This section describes what software architecture is for the current system, and how it is represented. Of the Use-Case, Logical, Process, Deployment, and Implementation Views, it enumerates the views that are necessary, and for each view, explains what types of model elements it contains.]
+We are trying to implement according to the MVC pattern:
+https://raw.githubusercontent.com/DigiWill-dhbw/Documentation/master/SAD/mvc_structure.png
 
 3.                  Architectural Goals and Constraints
 [This section describes the software requirements and objectives that have some significant impact on the architecture, for example, safety, security, privacy, use of an off-the-shelf product, portability, distribution, and reuse. It also captures the special constraints that may apply: design and implementation strategy, development tools, team structure, schedule, legacy code, and so on.]
