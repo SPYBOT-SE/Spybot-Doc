@@ -78,7 +78,7 @@ This document describes the technical architecture of the Spybot project, includ
 This document contains the Architectural Representation, Goals and Constraints as well as the Logical, Deployment, Implementation and Data Views.
 
 # 2. Architectural Representation
-We are trying to implement according to the MVC pattern:
+We are trying to implement according to the MVC pattern:  
 ![MVC Pattern](https://www.tutlane.com/images/aspnet-mvc/aspnet-mvc-architecture.png)
 
 
@@ -86,7 +86,7 @@ We are trying to implement according to the MVC pattern:
 We decided to use the inherent Android Architecture as our main framework.
 
 # 4.                  Use-Case View
-Our Use-Case diagram:
+Our Use-Case diagram:  
 ![UCD](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/main/UseCases/UseCaseDiagram.jpg)
 
 # 5. Logical View
