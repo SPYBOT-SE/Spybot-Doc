@@ -55,16 +55,16 @@ Table of Contents
 
 Software Architecture Document
 
-1.                  Introduction
+# 1.                  Introduction
 [The introduction of the Software Architecture Document should provide an overview of the entire Software Architecture Document. It should include the purpose, scope, definitions, acronyms, abbreviations, references, and overview of the Software Architecture Document.]
 
-1.1               Purpose
+## 1.1               Purpose
 This document provides a comprehensive architectural overview of the system, using a number of different architectural views to depict different aspects of the system.  It is intended to capture and convey the significant architectural decisions which have been made on the system.
 
-1.2               Scope
+## 1.2               Scope
 This document describes the technical architecture of the Spybot project, including the structure of classes, modules and dependencies.
 
-1.3               Definitions, Acronyms and Abbreviations
+## 1.3               Definitions, Acronyms and Abbreviations
 
 |Abbreviation|Description|
 |---|---|
@@ -77,61 +77,80 @@ This document describes the technical architecture of the Spybot project, includ
 |VCS|Version Control System|
 |n/a|not applicable|
 
-1.4               References
-[This subsection should provide a complete list of all documents referenced elsewhere in the Software Architecture Document.  Each document should be identified by title, report number (if applicable), date, and publishing organization.  Specify the sources from which the references can be obtained. This information may be provided by reference to an appendix or to another document.]
+## 1.4               References
 
-1.5               Overview
+
+## 1.5               Overview
 This document contains the Architectural Representation, Goals and Constraints as well as the Logical, Deployment, Implementation and Data Views.
 
-2.                  Architectural Representation
+# 2.                  Architectural Representation
 We are trying to implement according to the MVC pattern:
 ![MVC Pattern](https://raw.githubusercontent.com/DigiWill-dhbw/Documentation/master/SAD/mvc_structure.png)
 
 
-3.                  Architectural Goals and Constraints
+# 3.                  Architectural Goals and Constraints
 We decided to use the inherent Android Architecture as our main framework.
 
-4.                  Use-Case View
+# 4.                  Use-Case View
 Our Use-Case diagram:
 ![UCD](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/main/UseCases/UseCaseDiagram.jpg)
 
-4.1               Use-Case Realizations
-[This section illustrates how the software actually works by giving a few selected use-case (or scenario) realizations, and explains how the various design model elements contribute to their functionality.]
-
-5.                  Logical View
+# 5.                  Logical View
 [This section describes the architecturally significant parts of the design model, such as its decomposition into subsystems and packages. And for each significant package, its decomposition into classes and class utilities. You should introduce architecturally significant classes and describe their responsibilities, as well as a few very important relationships, operations, and attributes.]
 
-5.1               Overview
-[This subsection describes the overall decomposition of the design model in terms of its package hierarchy and layers.]
+## 5.1.               Overview
+![Class Diagram](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/e2e582927d127a61ef73821b4c2db94669b2ca94/ClassDiagramm.svg)
 
-5.2               Architecturally Significant Design Packages
-[For each significant package, include a subsection with its name, its brief description, and a diagram with all significant classes and packages contained within the package.
+## 5.2.              Architecturally Significant Design Packages  
+For all packages the diagram is shown in 5.1      
+### 5.2.1.            com.enemy  
+This is a brief description  
+
+### 5.2.2.            com.example.spybot  
+This is a brief description  
+
+### 5.2.3.            com.level  
+This is a brief description  
+
+### 5.2.4.            com.model  
+This is a brief description  
+
+### 5.2.5.            com.pawns  
+This is a brief description  
+
+### 5.2.6.            com.player  
+This is a brief description  
+
+### 5.2.7.            com.spybot.app  
+This is a brief description  
+
+### 5.2.8.            com.utility  
+This is a brief description  
 
 For each significant class in the package, include its name, brief description, and, optionally a description of some of its major responsibilities, operations and attributes.]
 
-6.                  Process View
+# 6.                  Process View
 n/a
 
-7.                  Deployment View
+# 7.                  Deployment View
 n/a
 
-8.                  Implementation View
+# 8.                  Implementation View
 n/a
 
-8.1               Overview
+##8.1               Overview
 n/a
 
-8.2               Layers
+## 8.2               Layers
 n/a
 
-9.                  Data View (optional)
-n/a
-![Class Diagram](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/e2e582927d127a61ef73821b4c2db94669b2ca94/ClassDiagramm.svg)
-
-10.             Size and Performance
+# 9.                  Data View (optional)
 n/a
 
-11.             Quality
+
+# 10.             Size and Performance
 n/a
 
- Artifacts >  Analysis & Design Artifact Set >  Software Architecture Document >  rup_sad.htm
+# 11.             Quality
+n/a
+
