@@ -50,7 +50,7 @@ Revision History
 # Software Architecture Document
 
 # 1. Introduction
-[The introduction of the Software Architecture Document should provide an overview of the entire Software Architecture Document. It should include the purpose, scope, definitions, acronyms, abbreviations, references, and overview of the Software Architecture Document.]
+The introduction of the Software Architecture Document should provide an overview of the entire Software Architecture Document. It should include the purpose, scope, definitions, acronyms, abbreviations, references, and overview of the Software Architecture Document.
 
 ## 1.1 Purpose
 This document provides a comprehensive architectural overview of the system, using a number of different architectural views to depict different aspects of the system.  It is intended to capture and convey the significant architectural decisions which have been made on the system.
@@ -79,7 +79,7 @@ This document contains the Architectural Representation, Goals and Constraints a
 
 # 2. Architectural Representation
 We are trying to implement according to the MVC pattern:
-![MVC Pattern](https://raw.githubusercontent.com/DigiWill-dhbw/Documentation/master/SAD/mvc_structure.png)
+![MVC Pattern](https://www.tutlane.com/images/aspnet-mvc/aspnet-mvc-architecture.png)
 
 
 # 3. Architectural Goals and Constraints
@@ -97,28 +97,28 @@ Our Use-Case diagram:
 ## 5.2. Architecturally Significant Design Packages  
 For all packages the diagram is shown in 5.1      
 ### 5.2.1. com.enemy  
-This is a brief description  
+Package for the enemy classes.   
 
 ### 5.2.2. com.example.spybot  
-This is a brief description  
+Package containing the view classes  
 
 ### 5.2.3. com.level  
-This is a brief description  
+Package containing the basic level structure   
 
 ### 5.2.4. com.model  
-This is a brief description  
+Package containing the graph class  
 
 ### 5.2.5. com.pawns  
-This is a brief description  
+Package containing the different pawns  
 
 ### 5.2.6. com.player  
-This is a brief description  
+Package containing the player and different pawn types  
 
 ### 5.2.7. com.spybot.app  
-This is a brief description  
+Package containing the app settings  
 
 ### 5.2.8. com.utility  
-This is a brief description  
+Package containing the utility  
 
 # 6. Process View
 n/a
