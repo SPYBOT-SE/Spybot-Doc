@@ -126,7 +126,7 @@ n/a
 
 9.                  Data View (optional)
 n/a
-![Class Diagram](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Class%20Diagram.jpg?raw=true)
+![Class Diagram](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/e2e582927d127a61ef73821b4c2db94669b2ca94/ClassDiagramm.svg)
 
 10.             Size and Performance
 n/a
