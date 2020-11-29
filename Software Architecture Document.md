@@ -13,6 +13,7 @@ Revision History
 |Date|Version|Description|Author|
 |---|---|---|---|
 |<11/11/2020>|<1.0>|Created|Schmider|
+|<29/11/2020>|<2.0>|Updating|Kaltenmark|
 
  	 	 	 
  	 	 	 
@@ -64,15 +65,17 @@ This document provides a comprehensive architectural overview of the system, usi
 This document describes the technical architecture of the Spybot project, including the structure of classes, modules and dependencies.
 
 1.3               Definitions, Acronyms and Abbreviations
-Abbrevation	Description
-API	Application programming interface
-MVC	Model View Controller
-REST	Representational state transfer
-SDK	Software development kit
-SRS	Software Requirements Specification
-UC	Use Case
-VCS	Version Control System
-n/a	not applicable
+
+|Abbreviation|Description|
+|---|---|
+|API|Application programming interface|
+|MVC|Model View Controller|
+|REST|Representational state transfer|
+|SDK|Software development kit|
+|SRS|	Software Requirements Specification|
+|UC	|Use Case|
+|VCS|Version Control System|
+|n/a|not applicable|
 
 1.4               References
 [This subsection should provide a complete list of all documents referenced elsewhere in the Software Architecture Document.  Each document should be identified by title, report number (if applicable), date, and publishing organization.  Specify the sources from which the references can be obtained. This information may be provided by reference to an appendix or to another document.]
@@ -81,14 +84,16 @@ n/a	not applicable
 This document contains the Architectural Representation, Goals and Constraints as well as the Logical, Deployment, Implementation and Data Views.
 
 2.                  Architectural Representation
-We are trying to implement according to the MVC pattern: ![MVC Pattern](https://raw.githubusercontent.com/DigiWill-dhbw/Documentation/master/SAD/mvc_structure.png)
+We are trying to implement according to the MVC pattern:
+![MVC Pattern](https://raw.githubusercontent.com/DigiWill-dhbw/Documentation/master/SAD/mvc_structure.png)
 
 
 3.                  Architectural Goals and Constraints
-[This section describes the software requirements and objectives that have some significant impact on the architecture, for example, safety, security, privacy, use of an off-the-shelf product, portability, distribution, and reuse. It also captures the special constraints that may apply: design and implementation strategy, development tools, team structure, schedule, legacy code, and so on.]
+We decided to use the inherent Android Architecture as our main framework.
 
 4.                  Use-Case View
-[This section lists use cases or scenarios from the use-case model if they represent some significant, central functionality of the final system, or if they have a large architectural coverage - they exercise many architectural elements, or if they stress or illustrate a specific, delicate point of the architecture.]
+Our Use-Case diagram:
+![UCD](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/main/UseCases/UseCaseDiagram.jpg)
 
 4.1               Use-Case Realizations
 [This section illustrates how the software actually works by giving a few selected use-case (or scenario) realizations, and explains how the various design model elements contribute to their functionality.]
@@ -105,28 +110,28 @@ We are trying to implement according to the MVC pattern: ![MVC Pattern](https://
 For each significant class in the package, include its name, brief description, and, optionally a description of some of its major responsibilities, operations and attributes.]
 
 6.                  Process View
-[This section describes the system's decomposition into lightweight processes (single threads of control) and heavyweight processes (groupings of lightweight processes). Organize the section by groups of processes that communicate or interact. Describe the main modes of communication between processes, such as message passing, interrupts, and rendezvous.]
+n/a
 
 7.                  Deployment View
-[This section describes one or more physical network (hardware) configurations on which the software is deployed and run. It is a view of the Deployment Model. At a minimum for each configuration it should indicate the physical nodes (computers, CPUs) that execute the software, and their interconnections (bus, LAN, point-to-point, and so on.) Also include a mapping of the processes of the Process View onto the physical nodes.]
+n/a
 
 8.                  Implementation View
-[This section describes the overall structure of the implementation model, the decomposition of the software into layers and subsystems in the implementation model, and any architecturally significant components.]
+n/a
 
 8.1               Overview
-[This subsection names and defines the various layers and their contents, the rules that govern the inclusion to a given layer, and the boundaries between layers. Include a component diagram that shows the relations between layers. ]
+n/a
 
 8.2               Layers
-[For each layer, include a subsection with its name, an enumeration of the subsystems located in the layer, and a component diagram.]
+n/a
 
 9.                  Data View (optional)
-[A description of the persistent data storage perspective of the system. This section is optional if there is little or no persistent data, or the translation between the Design Model and the Data Model is trivial.]
+n/a
 ![Class Diagram](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Class%20Diagram.jpg?raw=true)
 
 10.             Size and Performance
-[A description of the major dimensioning characteristics of the software that impact the architecture, as well as the target performance constraints.]
+n/a
 
 11.             Quality
-[A description of how the software architecture contributes to all capabilities (other than functionality) of the system: extensibility, reliability, portability, and so on. If these characteristics have special significance, for example safety, security or privacy implications, they should be clearly delineated.]
+n/a
 
  Artifacts >  Analysis & Design Artifact Set >  Software Architecture Document >  rup_sad.htm
