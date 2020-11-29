@@ -81,7 +81,7 @@ n/a	not applicable
 This document contains the Architectural Representation, Goals and Constraints as well as the Logical, Deployment, Implementation and Data Views.
 
 2.                  Architectural Representation
-We are trying to implement according to the MVC pattern: ![MVC Pattern](https://raw.githubusercontent.com/DigiWill-dhbw/Documentation/master/SAD/mvc_structure.pngg)
+We are trying to implement according to the MVC pattern: ![MVC Pattern](https://raw.githubusercontent.com/DigiWill-dhbw/Documentation/master/SAD/mvc_structure.png)
 
 
 3.                  Architectural Goals and Constraints
