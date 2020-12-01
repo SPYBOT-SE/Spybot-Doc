@@ -15,7 +15,7 @@ The player selects a level to play. All levels have the same basics, but are loo
 
 ### 2.1.1 Activity Diagram
 
-![Move Activity Diagram](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/0207b270d5c8204763f9c43eb2db5779b76a1367/UseCases/Select_Level/ActivityDiagram.svg)
+![Move Activity Diagram](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/61477d4aa2ee6938a437a8a27ec8d09674687ca9/UseCases/Select_Level/ActivityDiagram.svg)
 
 ### 2.1.2 Mock-up
 
