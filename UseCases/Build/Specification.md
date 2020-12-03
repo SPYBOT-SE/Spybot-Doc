@@ -19,7 +19,7 @@ Most of the pawns can attack. Pawns can only attack once per turn and when its i
 
 ### 2.1.2 Mock-up
 
-![Build](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/6a47eb115dd1be346f5800bd87bcd1a6b7936851/UseCases/Build/MockUpBuild.svg)
+![Build](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/ec012b5641c507fb0d57e62b3ef63a00bc87cfe2/UseCases/Build/MockUpBuild.svg)
 
 ### 2.1.3 Narrative
 
