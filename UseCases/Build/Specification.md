@@ -12,6 +12,7 @@ Most of the pawns can attack. Pawns can only attack once per turn and when its i
 
 * User clicks on a field outside of the board
 * The clicked field will be activated and pawns can move to it
+* The field will be added to the graph of the board
 
 ### 2.1.1 Activity Diagram
 
