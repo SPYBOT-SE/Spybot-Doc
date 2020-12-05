@@ -10,6 +10,7 @@ Revision History
 |---|---|---|---|
 |<11/11/2020>|<1.0>|Created|Schmider|
 |<29/11/2020>|<2.0>|Updating|Kaltenmark|
+|<05/12/2020>|<3.0>|Updating|Schmider|
 
  	 	 	 
  	 	 	 
@@ -64,7 +65,6 @@ This document describes the technical architecture of the Spybot project, includ
 |---|---|
 |API|Application programming interface|
 |MVC|Model View Controller|
-|REST|Representational state transfer|
 |SDK|Software development kit|
 |SRS|	Software Requirements Specification|
 |UC	|Use Case|
