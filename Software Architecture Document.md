@@ -87,7 +87,7 @@ We decided to use the inherent Android Architecture as our main framework.
 
 # 4.                  Use-Case View
 Our Use-Case diagram:  
-![SRS](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/SRS.md)
+The SRS can be found here. (https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/SRS.md)
 ![UCD](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/main/UseCases/UseCaseDiagram.jpg)
 
 # 5. Logical View
