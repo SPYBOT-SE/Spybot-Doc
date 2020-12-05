@@ -19,11 +19,11 @@ Most pawns will be upgradeable at the cost of ingame currency. You can upgrade y
 
 ### 2.1.1 Activity Diagram
 
-![Upgrade Activity.jpg](Upgrade%20Activity.jpg?fileId=2079583#mimetype=image%2Fjpeg&hasPreview=true)
+![Upgrade Activity.jpg](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/24e1b1b882fb75ca6bfdd9f6ef7b086e8655e2d6/UseCases/Upgrade/upgrade%20Activity.svg)
 
 ### 2.1.2 Mock-up
 
-![Mockup.jpg](Mockup.jpg?fileId=2079787#mimetype=image%2Fjpeg&hasPreview=true)
+![Mockup.jpg](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/24e1b1b882fb75ca6bfdd9f6ef7b086e8655e2d6/UseCases/Upgrade/Mockup.svg)
 
 ### 2.1.3 Narrative
 
