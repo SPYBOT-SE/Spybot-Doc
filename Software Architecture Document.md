@@ -92,7 +92,7 @@ Our Use-Case diagram:
 # 5. Logical View
 
 ## 5.1. Overview
-![Class Diagram](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Class%20Diagram.png?raw=true)
+![Class Diagram](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Updated%20Activity%20Diagram.png?raw=true)
 
 ## 5.2. Architecturally Significant Design Packages  
 For all packages the diagram is shown in 5.1      
