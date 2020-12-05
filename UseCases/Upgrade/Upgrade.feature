@@ -6,8 +6,8 @@ Feature:Upgrade
     Given the user is in catalogue view
     And the pawn can be upgraded
 
-  Scenario: Attack enemy
-    Given it is my turn
+  Scenario: User is in catalogue
+    Given 
     And a pawn is chosen
     And the pawn can attack
     When I click on a field on the board with an enemy pawn
