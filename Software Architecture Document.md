@@ -21,7 +21,7 @@ Revision History
 - [1.Introduction](#1-introduction)
   * [1.1 Purpose](#11-purpose)
   * [1.2 Scope](#12-scope)
-  * [1.3 Definitions, Acronyms and Abbreviations](#13-abbreviations)
+  * [1.3 Abbreviations](#13-abbreviations)
   * [1.4 References](#14-references)
   * [1.5 Overview](#15-overview)
 - [2. Architectural Representation](#2-architectural-representation)
@@ -63,16 +63,21 @@ This document describes the technical architecture of the Spybot project, includ
 
 |Abbreviation|Description|
 |---|---|
-|API|Application programming interface|
 |MVC|Model View Controller|
 |SDK|Software development kit|
-|SRS|	Software Requirements Specification|
+|SRS|Software Requirements Specification|
 |UC	|Use Case|
 |VCS|Version Control System|
 |n/a|not applicable|
 
 ## 1.4 References
 
+| Title | Date | 
+| ----------------------------------------------------------------------------------------------------- | ---------- | 
+| [Blog](https://spybotreloaded.wordpress.com/blog/) | 07/10/2020 | 
+| [GitHub Docs](https://github.com/steiditi/Spybot-Reloaded-Doc/) | 07/10/2020 | 
+| [GitHub Code](https://github.com/janick3110/Spybot) | 07/12/2020 |
+| [YouTrack](https://dhbw-karlsruhe.myjetbrains.com/youtrack/dashboard?id=9240c61f-d244-4f64-bbf2-e1fa0b5f3400) | 07/12/2020 |
 
 ## 1.5 Overview
 This document contains the Architectural Representation, Goals and Constraints as well as the Logical, Deployment, Implementation and Data Views.
@@ -128,17 +133,10 @@ n/a
 n/a
 
 # 8. Implementation View
-n/a
-
-## 8.1 Overview
-n/a
-
-## 8.2 Layers
-n/a
+[UML](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Class%20Diagram.png?raw=true)
 
 # 9. Data View
 n/a
-
 
 # 10. Size and Performance
 n/a
