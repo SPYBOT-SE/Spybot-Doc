@@ -133,7 +133,7 @@ n/a
 n/a
 
 # 8. Implementation View
-[UML](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Class%20Diagram.png?raw=true)
+![UML](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Class%20Diagram.png?raw=true)
 
 # 9. Data View
 n/a
