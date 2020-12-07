@@ -16,11 +16,11 @@
     * [2.3 User characteristics](#23-user-characteristics)
     * [2.4 Dependencies](#24-dependencies)
   * [3. Specific Requirements](#3-specific-requirements)
-    * [3.1 Functionality � Data Backend](#31-functionality--data-backend)
+    * [3.1 Functionality - Data Backend](#31-functionality--data-backend)
       * [3.1.1 Read data given over API endpoints](#311-read-data-given-over-api-endpoints)
       * [3.1.2 Parse data](#312-parse-data)
       * [3.1.3 Provide data](#313-provide-data)
-    * [3.2 Functionality � User Interface](#32-functionality--user-interface)
+    * [3.2 Functionality - User Interface](#32-functionality--user-interface)
       * [3.2.1 User system](#321-user-system)
       * [3.2.3 Flashcard boxes](#323-flashcard-boxes)
       * [3.2.4 Flashcards](#324-flashcards)
@@ -92,17 +92,17 @@ After two semesters of development, an Android strategy game with the following 
 
 ## 2.2 Product perspective
 
-### 2.3 User characteristics
+### 2.2.1 User characteristics
 
 Our target group is pretty wide-ranging from teenagers up to older adults, but since it is a reboot from an old game, maybe more people, which were born few years before the game was released, will play this game. In order to have fun playing this game, tactical thinking is required. Different levels provide a great challenge for people at any age.
 
-### 2.4 Dependencies
+### 2.2.2 Dependencies
 
 Spybot: reloaded does not require any additional software. One will be able to download the app from a website or from the Google Play Store which only requires a current smartphone running Android 7.0 or higher.
 
 ## 3. Specific Requirements
 
-### 3.1 Functionality � Data Backend
+### 3.1 Functionality - Data Backend
 
 #### 3.1.1 Read data given over API endpoints
 
@@ -110,7 +110,7 @@ Spybot: reloaded does not require any additional software. One will be able to d
 
 #### 3.1.3 Provide data
 
-### 3.2 Functionality � User Interface
+### 3.2 Functionality - User Interface
 
 #### 3.2.1 User system
 
