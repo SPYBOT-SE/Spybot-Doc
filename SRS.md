@@ -66,7 +66,10 @@ The document should be used for internal purposes only.
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
-| Term | | | -------- | ----------------------------------- | | **SRS** | Software Requirements Specification |  | **UCD** | Use Case Diagram | | **tbd** | to be determined|
+| Term | |
+| -------- | ----------------------------------- | 
+| **SRS** | Software Requirements Specification |  
+| **UCD** | Use Case Diagram | 
 
 ### 1.4 References
 
