@@ -177,7 +177,7 @@ Spybot: reloaded does not require any additional software. One will be able to d
 
 ## 4. Supporting Information
 
-### 4.1 Uee Case Diagram
+### 4.1 Use Case Diagram
 
 All use cases can be found [here](https://github.com/steiditi/Spybot-Reloaded-Doc/tree/main/UseCases).
 
