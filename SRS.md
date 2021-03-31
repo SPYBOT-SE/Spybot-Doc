@@ -53,6 +53,7 @@
     * [3.12 Legal, Copyright and other Notices](#312-legal-copyright-and-other-notices)
     * [3.13 Applicable Standards](#313-applicable-standards)
   * [4. Supporting Information](#4-supporting-information)
+  * [4.1 Use Case Diagram](#41-use-case-diagram)
 
 ## 1. Introduction
 
@@ -175,3 +176,9 @@ Spybot: reloaded does not require any additional software. One will be able to d
 ### 3.13 Applicable Standards
 
 ## 4. Supporting Information
+
+### 4.1 Uee Case Diagram
+
+All use cases can be found [here](https://github.com/steiditi/Spybot-Reloaded-Doc/tree/main/UseCases)
+And this is an overview of all use cases
+![Overview Use Cases](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/UseCases/UseCaseDiagram_Scope.svg)
