@@ -13,14 +13,14 @@
   * [2. Overall Description](#2-overall-description)
     * [2.1 Vision](#21-vision)
   * [2.2 Product perspective](#22-product-perspective)
-    * [2.3 User characteristics](#23-user-characteristics)
-    * [2.4 Dependencies](#24-dependencies)
+    * [2.2.1 User characteristics](#23-user-characteristics)
+    * [2.2.2 Dependencies](#24-dependencies)
   * [3. Specific Requirements](#3-specific-requirements)
-    * [3.1 Functionality � Data Backend](#31-functionality--data-backend)
+    * [3.1 Functionality - Data Backend](#31-functionality--data-backend)
       * [3.1.1 Read data given over API endpoints](#311-read-data-given-over-api-endpoints)
       * [3.1.2 Parse data](#312-parse-data)
       * [3.1.3 Provide data](#313-provide-data)
-    * [3.2 Functionality � User Interface](#32-functionality--user-interface)
+    * [3.2 Functionality - User Interface](#32-functionality--user-interface)
       * [3.2.1 User system](#321-user-system)
       * [3.2.3 Flashcard boxes](#323-flashcard-boxes)
       * [3.2.4 Flashcards](#324-flashcards)
@@ -53,6 +53,7 @@
     * [3.12 Legal, Copyright and other Notices](#312-legal-copyright-and-other-notices)
     * [3.13 Applicable Standards](#313-applicable-standards)
   * [4. Supporting Information](#4-supporting-information)
+  * [4.1 Use Case Diagram](#41-use-case-diagram)
 
 ## 1. Introduction
 
@@ -66,11 +67,19 @@ The document should be used for internal purposes only.
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
-| Term | | | -------- | ----------------------------------- | | **SRS** | Software Requirements Specification |  | **UCD** | Use Case Diagram | | **tbd** | to be determined|
+| Term | |
+| -------- | ----------------------------------- | 
+| **SRS** | Software Requirements Specification |  
+| **UCD** | Use Case Diagram | 
 
 ### 1.4 References
 
-| Title | Date | | ----------------------------------------------------------------------------------------------------- | ---------- | | [Blog](https://spybotreloaded.wordpress.com/) | 07/10/2020 | | [GitHub](https://github.com/steiditi/Spybot-Reloaded/) | 07/10/2020 | | 
+| Title | Date | 
+| ----------------------------------------------------------------------------------------------------- | ---------- | 
+| [Blog](https://spybotreloaded.wordpress.com/blog/) | 07/10/2020 | 
+| [GitHub Docs](https://github.com/steiditi/Spybot-Reloaded-Doc/) | 07/10/2020 | 
+| [GitHub Code](https://github.com/janick3110/Spybot) | 07/12/2020 |
+| [YouTrack](https://dhbw-karlsruhe.myjetbrains.com/youtrack/dashboard?id=9240c61f-d244-4f64-bbf2-e1fa0b5f3400) | 07/12/2020 |
 
 ### 1.5 Overview
 
@@ -84,17 +93,17 @@ After two semesters of development, an Android strategy game with the following 
 
 ## 2.2 Product perspective
 
-### 2.3 User characteristics
+### 2.2.1 User characteristics
 
 Our target group is pretty wide-ranging from teenagers up to older adults, but since it is a reboot from an old game, maybe more people, which were born few years before the game was released, will play this game. In order to have fun playing this game, tactical thinking is required. Different levels provide a great challenge for people at any age.
 
-### 2.4 Dependencies
+### 2.2.2 Dependencies
 
 Spybot: reloaded does not require any additional software. One will be able to download the app from a website or from the Google Play Store which only requires a current smartphone running Android 7.0 or higher.
 
 ## 3. Specific Requirements
 
-### 3.1 Functionality � Data Backend
+### 3.1 Functionality - Data Backend
 
 #### 3.1.1 Read data given over API endpoints
 
@@ -102,7 +111,7 @@ Spybot: reloaded does not require any additional software. One will be able to d
 
 #### 3.1.3 Provide data
 
-### 3.2 Functionality � User Interface
+### 3.2 Functionality - User Interface
 
 #### 3.2.1 User system
 
@@ -167,3 +176,10 @@ Spybot: reloaded does not require any additional software. One will be able to d
 ### 3.13 Applicable Standards
 
 ## 4. Supporting Information
+
+### 4.1 Use Case Diagram
+
+All use cases can be found [here](https://github.com/steiditi/Spybot-Reloaded-Doc/tree/main/UseCases).
+
+And this is an overview of all use cases
+![Overview Use Cases](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/UseCases/UseCaseDiagram_Scope.svg)
