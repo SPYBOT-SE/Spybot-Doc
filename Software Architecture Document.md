@@ -130,7 +130,7 @@ Package containing the utility
 n/a
 
 # 7. Deployment View
-![Phone](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Graphics/Phone_Spybot.JPG?raw=true)
+![Phone](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Graphics/DeplyomentView.jpg?raw=true)
 
 # 8. Implementation View
 ![UML](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Class%20Diagram.png?raw=true)
