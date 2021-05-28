@@ -1,21 +1,18 @@
 # 1 Use-Case Name
 
-Upgrade Pawn
+Buy Pawn
 
 ## 1.1 Brief Description
 
-Most pawns will be upgradeable at the cost of ingame currency. You can upgrade your pawn in the main menu while you're not playing a level. An upgraded pawn will be the upgraded version forever. Some pawns will have multiple upgraded versions that you can choose one of.
+Pawns can be bought at the cost of ingame currency. You can buy your pawn in the main menu while you're not playing a level. A bought pawn will be the in the catalogue of a user forever.
 
 # 2 Flow of Events
 
 ## 2.1 Basic Flow
 
 * User is in the pawns catalogue of the main menu
-* User selects one pawn by clicking on it
-* Shows all available upgrades of that pawn
-* User can choose an upgrade
-* Chosen upgrade will show additional information to that upgrade
-* By clicking on the upgrade button the user upgrades that pawn
+* By clicking on the upgrade button the user buys that pawn if he hasn't bought it already,
+  and it is added to his catalogue
 
 ### 2.1.1 Activity Diagram
 
@@ -33,14 +30,14 @@ Most pawns will be upgradeable at the cost of ingame currency. You can upgrade y
 
 ## 2.2 Alternative Flows
 
-### 2.2.1 Does't want to upgrade
+### 2.2.1 Doesn't want to buy
 
-* User returns without upgrading
+* User returns without buying
 
 ### 2.2.2 Not enough money
 
 * User doesn't have enough money
-* Upgrades will not be selectable by greying them out
+* Pawns can't be bought
 
 # 3 Special Requirements
 
@@ -48,9 +45,9 @@ Most pawns will be upgradeable at the cost of ingame currency. You can upgrade y
 
 # 4 Preconditions
 
-## 4.1 Pawns in catalogue
+## 4.1 Pawns not in catalogue
 
-User has pawns in catalogue
+User has pawns not in catalogue
 
 # 5 Postconditions
 
