@@ -16,11 +16,11 @@ At the beginning of the game each player gets to spawn his pawns on the fields w
 
 ### 2.1.1 Activity Diagram
 
-![Attack Activity Diagram](https://raw.githubusercontent.com/SPYBOT-SE/Spybot-Doc/main/UseCases/Spawn%20Pawn/UsecaseDiagramSpawn.jpg)
+![Spawn Activity Diagram](https://raw.githubusercontent.com/SPYBOT-SE/Spybot-Doc/main/UseCases/Spawn%20Pawn/UsecaseDiagramSpawn.jpg)
 
 ### 2.1.2 Mock-up
 
-![Attack](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/aee3231d385e4de7a009efe2e4497b0615e82e92/UseCases/Attack/MockUp.svg)
+![Spawn](https://raw.githubusercontent.com/SPYBOT-SE/Spybot-Doc/main/UseCases/Spawn%20Pawn/MockUp%20Spawn.jpg)
 
 ### 2.1.3 Narrative
 
