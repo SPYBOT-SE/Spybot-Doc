@@ -20,7 +20,7 @@ Pawns can be bought at the cost of ingame currency. You can buy your pawn in the
 
 ### 2.1.2 Mock-up
 
-![Mockup.jpg](MockUp Shop.jpg)
+![Mockup.jpg]((https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/BuyPawns/MockUp%20Shop.jpg?raw=true))
 
 ### 2.1.3 Narrative
 
