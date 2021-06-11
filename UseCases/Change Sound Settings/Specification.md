@@ -1,24 +1,27 @@
 # 1 Use-Case Name
 
-Turn Based
+Change Sound Settings
 
 ## 1.1 Brief Description
 
-A running game has two main states. Preparation where pawns can be spawned and running where the pawns can move and attack. With the button "Next Turn" the active player can be swaped and the state will be actualised.
+In the sound settings menu the volume can be changed with a music-, sfx- and a general slider. 
 
 # 2 Flow of Events
 
 ## 2.1 Basic Flow
 
-* Player clicks on "Next Turn" button
-* Active player is swapped
-* Game state will be changed from preparation to running if second player was active 
+* Player drags one slider
+* The specific volume value will be set and active sounds will be adjusted
+* If slider is sfx slider then a test sound will be played
 
 ### 2.1.1 Activity Diagram
 
-![turnbased.jpg](turnbased.jpg?fileId=2152077#mimetype=image%2Fjpeg&hasPreview=true)
+![soundsettings.jpg](turnbased.jpg?fileId=2152077#mimetype=image%2Fjpeg&hasPreview=true)
 
 ### 2.1.2 Mock-up
+
+![soundsettings.jpg](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/Change%20Sound%20Settings/MockUp%20Sound%20Settings.jpg?raw=true)
+
 
 ### 2.1.3 Narrative
 
@@ -28,7 +31,21 @@ A running game has two main states. Preparation where pawns can be spawned and r
 
 ## 2.2 Alternative Flows
 
-###### (n/a)
+### 2.2.1 Player clicks mute button
+
+* All sliders will be set to 0%
+
+### 2.2.2 Player clicks reset sound button
+
+* All sliders will be set to 50%
+
+### 2.2.3 Player clicks soundtrack switch
+
+* Active music can be swapped between two songs
+
+### 2.2.4 Player clicks reset savegame button
+
+* Current Savegame will be overriden with default savegame
 
 # 3 Special Requirements
 
