@@ -133,7 +133,7 @@ n/a
 ![Phone](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Graphics/DeplyomentView.jpg?raw=true)
 
 # 8. Implementation View
-![UML](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/Class%20Diagram.png?raw=true)
+![UML](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/Graphics/Class%20Diagram.png?raw=true)
 
 # 9. Data View
 n/a
