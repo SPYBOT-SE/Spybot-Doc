@@ -11,12 +11,12 @@ Pawns can be bought at the cost of ingame currency. You can buy your pawn in the
 ## 2.1 Basic Flow
 
 * User is in the pawns catalogue of the main menu
-* By clicking on the upgrade button the user buys that pawn if he hasn't bought it already,
+* By clicking on the buy button the user buys that pawn if he hasn't bought it already,
   and it is added to his catalogue
 
 ### 2.1.1 Activity Diagram
 
-![Upgrade Activity.jpg](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/24e1b1b882fb75ca6bfdd9f6ef7b086e8655e2d6/UseCases/Upgrade/upgrade%20Activity.svg)
+![Upgrade Activity.jpg](https://raw.githubusercontent.com/SPYBOT-SE/Spybot-Doc/ab9d18149fb19ff0cc50870ce1bd8f5de3303212/UseCases/Create%20Level/AD%20Create%20Level.svg)
 
 ### 2.1.2 Mock-up
 
