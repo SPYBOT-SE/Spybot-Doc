@@ -77,8 +77,8 @@ The document should be used for internal purposes only.
 | Title | Date | 
 | ----------------------------------------------------------------------------------------------------- | ---------- | 
 | [Blog](https://spybotreloaded.wordpress.com/blog/) | 07/10/2020 | 
-| [GitHub Docs](https://github.com/steiditi/Spybot-Reloaded-Doc/) | 07/10/2020 | 
-| [GitHub Code](https://github.com/janick3110/Spybot) | 07/12/2020 |
+| [GitHub Docs](https://github.com/SPYBOT-SE/Spybot-Doc) | 07/10/2020 | 
+| [GitHub Code](https://github.com/SPYBOT-SE/Spybot) | 07/12/2020 |
 | [YouTrack](https://dhbw-karlsruhe.myjetbrains.com/youtrack/dashboard?id=9240c61f-d244-4f64-bbf2-e1fa0b5f3400) | 07/12/2020 |
 
 ### 1.5 Overview
