@@ -16,7 +16,7 @@ At the beginning of the game each player gets to spawn his pawns on the fields w
 
 ### 2.1.1 Activity Diagram
 
-![Attack Activity Diagram](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/0a0563903812f3ca8e95161bbbe68eb69a09b598/UseCases/Attack/ActivityDiagram.svg)
+![Attack Activity Diagram](https://raw.githubusercontent.com/steiditi/Spybot-Reloaded-Doc/0a0563903812f3ca8e95161bbbe68eb69a09b598/UseCases/Spawn Pawn/UsecaseDiagramSpawn.jpg)
 
 ### 2.1.2 Mock-up
 
