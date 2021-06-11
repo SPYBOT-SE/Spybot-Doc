@@ -116,7 +116,6 @@ to be determined
 to be determined
 
 ### 3.2 Functionality - User Interface
-to be determined
 
 #### 3.2.1 User system
 to be determined
@@ -134,7 +133,6 @@ to be determined
 to be determined
 
 ### 3.4 Reliability
-to be determined
 
 #### 3.4.1 Availability
 to be determined
@@ -149,7 +147,6 @@ to be determined
 to be determined
 
 ### 3.5 Performance
-to be determined
 
 #### 3.5.1 Response time
 to be determined
@@ -167,28 +164,20 @@ to be determined
 to be determined
 
 ### 3.7 Design Constraints
-to be determined
 
 #### 3.7.1 Development tools
-to be determined
-
-#### 3.7.2 Spring Boot
-to be determined
-
-#### 3.7.3 ReactJS
-to be determined
+We wrote in [this](https://spybotreloaded.wordpress.com/2020/10/11/week-2-setup-and-technologies/) blog post about our tools
 
 #### 3.7.4 Supported Platforms
-to be determined
+All mobilephones with android version 7.0 or hihger
 
 ### 3.8 Online User Documentation and Help System Requirements
-to be determined
+not applicable (n/a)
 
 ### 3.9 Purchased Components
 to be determined
 
 ### 3.10 Interfaces
-to be determined
 
 #### 3.10.1 User Interfaces
 * Main Menu shows button to gamesettings, to close the app and a start button to the (login/load players) screen
