@@ -16,11 +16,11 @@ In the sound settings menu the volume can be changed with a music-, sfx- and a g
 
 ### 2.1.1 Activity Diagram
 
-![soundsettings.jpg](turnbased.jpg?fileId=2152077#mimetype=image%2Fjpeg&hasPreview=true)
+![soundsettings.jpg](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/Change%20Sound%20Settings/soundsettings.jpg?raw=true)
 
 ### 2.1.2 Mock-up
 
-![soundsettings.jpg](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/Change%20Sound%20Settings/MockUp%20Sound%20Settings.jpg?raw=true)
+![mock up soundsettings.jpg](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/Change%20Sound%20Settings/MockUp%20Sound%20Settings.jpg?raw=true)
 
 
 ### 2.1.3 Narrative
