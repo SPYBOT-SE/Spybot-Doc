@@ -104,76 +104,121 @@ Spybot: reloaded does not require any additional software. One will be able to d
 ## 3. Specific Requirements
 
 ### 3.1 Functionality - Data Backend
+to be determined
 
 #### 3.1.1 Read data given over API endpoints
+to be determined
 
 #### 3.1.2 Parse data
+to be determined
 
 #### 3.1.3 Provide data
+to be determined
 
 ### 3.2 Functionality - User Interface
+to be determined
 
 #### 3.2.1 User system
+to be determined
 
 #### 3.2.3 Flashcard boxes
+to be determined
 
 #### 3.2.4 Flashcards
+to be determined
 
 #### 3.2.5 Statistics
+to be determined
 
 ### 3.3 Usability
+to be determined
 
 ### 3.4 Reliability
+to be determined
 
 #### 3.4.1 Availability
+to be determined
 
 #### 3.4.2 MTBF, MTTR
+to be determined
 
 #### 3.4.3 Accuracy
+to be determined
 
 #### 3.4.4 Bug classes
+to be determined
 
 ### 3.5 Performance
+to be determined
 
 #### 3.5.1 Response time
+to be determined
 
 #### 3.5.2 Throughput
+to be determined
 
 #### 3.5.3 Capacity
+to be determined
 
 #### 3.5.4 Resource utilization
+to be determined
 
 ### 3.6 Supportability
+to be determined
 
 ### 3.7 Design Constraints
+to be determined
 
 #### 3.7.1 Development tools
+to be determined
 
 #### 3.7.2 Spring Boot
+to be determined
 
 #### 3.7.3 ReactJS
+to be determined
 
 #### 3.7.4 Supported Platforms
+to be determined
 
 ### 3.8 Online User Documentation and Help System Requirements
+to be determined
 
 ### 3.9 Purchased Components
+to be determined
 
 ### 3.10 Interfaces
+to be determined
 
 #### 3.10.1 User Interfaces
+* Main Menu shows button to gamesettings, to close the app and a start button to the (login/load players) screen
+* Sounds can be adjusted in the gamesettings
+* By Entering the player names in the choose player screen the correct savedata will be loaded
+* In the Arena you can choose from different levels
+* The real game will be played in the arena. You can click on the pawns to choose them and do actinos with the buttons on the left
+* In the shop you can buy new pawns with your rewarded money. All available pawns are showed
+* In the player settings you can change players names, load/delete players or reset the complete savegame
+* In the level editor you can create new levels and play them immediately
 
 #### 3.10.2 Hardware Interfaces
+not applicable (n/a)
 
 #### 3.10.3 Software Interfaces
+Pocket Battlegrounds should be running on all android devices with Android version 7.0 and above.
 
 #### 3.10.4 Communications Interfaces
+not applicable (n/a)
 
 ### 3.11 Licensing Requirements
 
+* YouTrack license from DHBW
+
 ### 3.12 Legal, Copyright and other Notices
 
+to be determined
+
 ### 3.13 Applicable Standards
+to be determined
 
 ## 4. Supporting Information
 
