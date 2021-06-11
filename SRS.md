@@ -187,4 +187,4 @@ to be determined
 All use cases can be found [here](https://github.com/SPYBOT-SE/Spybot-Doc/tree/main/UseCases).
 
 And this is an overview of all use cases
-![Overview Use Cases](https://github.com/steiditi/Spybot-Reloaded-Doc/blob/main/UseCases/UseCaseDiagram_Scope.svg)
+![Overview Use Cases](https://raw.githubusercontent.com/SPYBOT-SE/Spybot-Doc/c52001f09838d328a97226d9a16d6f9d0dd7c4b8/UseCases/overallUseCaseDiagram.svg)
