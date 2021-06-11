@@ -134,34 +134,12 @@ to be determined
 
 ### 3.4 Reliability
 
-#### 3.4.1 Availability
-to be determined
-
-#### 3.4.2 MTBF, MTTR
-to be determined
-
-#### 3.4.3 Accuracy
-to be determined
-
-#### 3.4.4 Bug classes
-to be determined
 
 ### 3.5 Performance
-
-#### 3.5.1 Response time
-to be determined
-
-#### 3.5.2 Throughput
-to be determined
-
-#### 3.5.3 Capacity
-to be determined
-
-#### 3.5.4 Resource utilization
-to be determined
+The performance should be good an all phones including old phones, because there are no moving objects and only static updates which occure on button clicks. The only thing that is constantly running is the music which should not effect the performance that much.
 
 ### 3.6 Supportability
-to be determined
+This app uses only the android api. The minimum sdk version is 24 and it is compiled on version 30. So it should be easy to update it for newer android versions in the future
 
 ### 3.7 Design Constraints
 
@@ -169,7 +147,7 @@ to be determined
 We wrote in [this](https://spybotreloaded.wordpress.com/2020/10/11/week-2-setup-and-technologies/) blog post about our tools
 
 #### 3.7.4 Supported Platforms
-All mobilephones with android version 7.0 or hihger
+All mobilephones with android version 7.0 or higher
 
 ### 3.8 Online User Documentation and Help System Requirements
 not applicable (n/a)
