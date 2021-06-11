@@ -19,6 +19,7 @@ A running game has two main states. Preparation where pawns can be spawned and r
 ![turnbased.jpg](turnbased.jpg?fileId=2152077#mimetype=image%2Fjpeg&hasPreview=true)
 
 ### 2.1.2 Mock-up
+![turnbased mockup](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/New%20Turn/MockUp%20Turn.jpg?raw=true)
 
 ### 2.1.3 Narrative
 
@@ -28,7 +29,7 @@ A running game has two main states. Preparation where pawns can be spawned and r
 
 ## 2.2 Alternative Flows
 
-###### (n/a)
+(n/a)
 
 # 3 Special Requirements
 
