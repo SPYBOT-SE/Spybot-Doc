@@ -20,7 +20,7 @@ Pawns can be bought at the cost of ingame currency. You can buy your pawn in the
 
 ### 2.1.2 Mock-up
 
-![Mockup.jpg]((https://i.imgur.com/T3Lsyim.jpg))
+![Mockup.jpg](https://i.imgur.com/T3Lsyim.jpg)
 
 ### 2.1.3 Narrative
 
