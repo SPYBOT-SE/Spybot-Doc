@@ -103,61 +103,64 @@ Spybot: reloaded does not require any additional software. One will be able to d
 
 ## 3. Specific Requirements
 
-### 3.1 Functionality - Data Backend
-to be determined
+### 3.1 Functionality - User Interface (Use Cases)
 
-#### 3.1.1 Read data given over API endpoints
-to be determined
+#### 3.1.1 Attack
+For detailed information visit this [Specification file](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/Attack/Specification.md)
 
-#### 3.1.2 Parse data
-to be determined
+#### 3.1.2 Move
+For detailed information visit this [Specification file](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/Move_UC/Specification.md)
 
-#### 3.1.3 Provide data
-to be determined
+#### 3.1.3 Select level
+For detailed information visit this [Specification file](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/Select_Level/Specification.md)
 
-### 3.2 Functionality - User Interface
+#### 3.1.4 Buy Pawn
+For detailed information visit this [Specification file](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/BuyPawns/Specification.md)
 
-#### 3.2.1 User system
-to be determined
+#### 3.1.5 Turn Based
+For detailed information visit this [Specification file](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/New%20Turn/Specification.md)
 
-#### 3.2.3 Flashcard boxes
-to be determined
+#### 3.1.6 Spawn Pawns
+For detailed information visit this [Specification file](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/Spawn%20Pawn/Specification.md)
 
-#### 3.2.4 Flashcards
-to be determined
+#### 3.1.7 Level Editor
+For detailed information visit this [Specification file](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/Create%20Level/Specification.md)
 
-#### 3.2.5 Statistics
-to be determined
-
-### 3.3 Usability
-to be determined
-
-### 3.4 Reliability
+#### 3.1.8 Change Sound settings
+For detailed information visit this [Specification file](https://github.com/SPYBOT-SE/Spybot-Doc/blob/main/UseCases/Change%20Sound%20Settings/Specification.md)
 
 
-### 3.5 Performance
+### 3.2 Usability
+Most of menues are easy to understand and dont need an instruction.
+If you know this type of game there should also be no problem to the game itself. But if you are not familiar with such games you need a bit of time to understand the rules. But you can try and play around and you will understand it in no time.
+
+### 3.3 Reliability
+This app should not have any errors which forces the app to close. So there should be no impact on the gaming experience.
+
+
+### 3.4 Performance
 The performance should be good an all phones including old phones, because there are no moving objects and only static updates which occure on button clicks. The only thing that is constantly running is the music which should not effect the performance that much.
 
-### 3.6 Supportability
+### 3.5 Supportability
 This app uses only the android api. The minimum sdk version is 24 and it is compiled on version 30. So it should be easy to update it for newer android versions in the future
 
-### 3.7 Design Constraints
+### 3.6 Design Constraints
 
-#### 3.7.1 Development tools
+#### 3.6.1 Development tools
 We wrote in [this](https://spybotreloaded.wordpress.com/2020/10/11/week-2-setup-and-technologies/) blog post about our tools
 
-#### 3.7.4 Supported Platforms
+#### 3.6.4 Supported Platforms
 All mobilephones with android version 7.0 or higher
 
-### 3.8 Online User Documentation and Help System Requirements
+### 3.7 Online User Documentation and Help System Requirements
 not applicable (n/a)
 
-### 3.9 Purchased Components
+### 3.8 Purchased Components
 to be determined
 
-### 3.10 Interfaces
+### 3.9 Interfaces
 
-#### 3.10.1 User Interfaces
+#### 3.9.1 User Interfaces
 * Main Menu shows button to gamesettings, to close the app and a start button to the (login/load players) screen
 * Sounds can be adjusted in the gamesettings
 * By Entering the player names in the choose player screen the correct savedata will be loaded
@@ -167,24 +170,24 @@ to be determined
 * In the player settings you can change players names, load/delete players or reset the complete savegame
 * In the level editor you can create new levels and play them immediately
 
-#### 3.10.2 Hardware Interfaces
+#### 3.9.2 Hardware Interfaces
 not applicable (n/a)
 
-#### 3.10.3 Software Interfaces
+#### 3.9.3 Software Interfaces
 Pocket Battlegrounds should be running on all android devices with Android version 7.0 and above.
 
-#### 3.10.4 Communications Interfaces
+#### 3.9.4 Communications Interfaces
 not applicable (n/a)
 
-### 3.11 Licensing Requirements
+### 3.10 Licensing Requirements
 
 * YouTrack license from DHBW
 
-### 3.12 Legal, Copyright and other Notices
+### 3.11 Legal, Copyright and other Notices
 
 to be determined
 
-### 3.13 Applicable Standards
+### 3.12 Applicable Standards
 to be determined
 
 ## 4. Supporting Information
