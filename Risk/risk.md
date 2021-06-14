@@ -1,4 +1,4 @@
-#Risk management
+# Risk management
 
 Risk name | Risk description | Risk probability of occurrence | Risk impact | Risk factor | Risk mitigation | Person of Charge 
 -------- | -------- | -------- | -------- | -------- | -------- | --------
